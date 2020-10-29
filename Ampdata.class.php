@@ -1269,4 +1269,3 @@ public function relatedArticlesCat($query, $client, $params, $data){
 
 }
 
-
